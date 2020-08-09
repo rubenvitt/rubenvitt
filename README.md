@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rubenvitt" alt="rubenvitt" /> </p>
 
-- 🔭 I’m currently working on [my website](https://dev.rubeen.dev)
+- 🔭 I’m currently working on [my website](https://github.com/rubenvitt/personal-website)
 
 - 🌱 I’m currently learning **TailwindCSS, modern frontend development**
 
