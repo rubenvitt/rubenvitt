@@ -1,4 +1,4 @@
-[![Header](https://res.rubeen.dev/rubeen.png)](https://rubeen.one)
+[![Header](https://rubeen.one/_next/image?url=%2Fassets%2Fimages%2Frubeen.png&w=3840&q=75)](https://rubeen.one)
 
 <h1 align="center">Hi 👋, I'm Rubeen</h1>
 <h3 align="center">A full stack developer from Germany.</h3>
