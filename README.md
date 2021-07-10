@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rubeen</h1>
-<h3 align="center">A full stack developer from Germany.</h3>
+<h3 align="center">A full stack engineer from Germany.</h3>
 
-- 🔭 I’m currently working on [my website](https://github.com/rubenvitt/personal-website)
+- 🔭 I’m currently working on a personal side project.
 
-- 👯 I’m looking to collaborate on **Any project** - reach out to me, if you need help 🚀
+- 👯 I’m looking to collaborate on **any project** - reach out, if you need my help 🚀
 
 - 👨‍💻 All of my projects are available at [https://rubeen.one/portfolio](https://rubeen.one/portfolio)
 
