@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rubeen</h1>
+<h1 align="center">Hey 🐈‍⬛, I'm Rubeen</h1>
 <h3 align="center">A full stack engineer from Germany.</h3>
 
 - 🔭 I’m currently working on a personal side project.
