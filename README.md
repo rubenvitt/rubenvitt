@@ -8,7 +8,7 @@ I develop modern software solutions and consult companies in full stack, DevOps,
 
 ## About Me
 
-- 🔭 **Currently:** Consultant at INNOQ  
+- 🔭 **Currently:** Consultant at INNOQ
 - 🌱 **Always Learning:** Open to new technologies and frameworks  
 - 🤝 **Collaboration:** Always interested in joint projects and new challenges  
 - 🚀 **Experience:** Years of expertise in software development – from backend and frontend to DevOps
@@ -19,7 +19,7 @@ I develop modern software solutions and consult companies in full stack, DevOps,
 
 Here are some of my most exciting projects on GitHub:
 
-- **[ember-rescue](https://github.com/rubenvitt/ember-rescue)**  
+- **[bluelight-hub](https://github.com/bluelight-hub/app)**  
   A comprehensive solution with both frontend and backend in TypeScript – up-to-date and versatile.
 - **[momentchen](https://github.com/rubenvitt/momentchen)**  
   An intriguing application built in TypeScript, regularly updated.
